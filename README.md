@@ -4,6 +4,8 @@
 
 **bold,** *italic,* ~~strikethrough.~~  
 
+:panda_face: was here.
+
 >Quote  
 
 `use backticks to call out code`
